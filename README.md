@@ -1,4 +1,4 @@
-# MyTapp App
+# MyBeers App
 
 Projeto transações financeira, com a backend e frontend.
 
